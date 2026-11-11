@@ -1,4 +1,4 @@
-# 🦅 Legal Eagle
+# Indian-Legal-Assistant-Offline-RAG
 
 **Offline RAG legal assistant for Indian law — no cloud, no API keys.**
 
